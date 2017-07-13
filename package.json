@@ -1,0 +1,12 @@
+{
+  "name": "mean application",
+  "version": "1.0.0",
+  "description": "First MEAN stack application",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Khanh Tran",
+  "license": "ISC"
+}

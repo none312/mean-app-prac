@@ -1,0 +1,1 @@
+angular.modules('userRoutes', []); //declare angular module name and dependencies
